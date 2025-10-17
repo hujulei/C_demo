@@ -57,3 +57,5 @@ int get_user_input() {
     scanf("%d", &input);
     return input;
 }
+
+return 0;
