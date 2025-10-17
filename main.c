@@ -59,5 +59,3 @@ int get_user_input() {
 }
 
 return 0;
-
-//添加一行
